@@ -19,8 +19,8 @@ There is a short roundtable where:
 1. Everyone tells at what time they want/need to leave.
 2. Everyone says how they feel/what their mood is (1-2 words)
 3. Everyone tells about their expectation(s) and/or wish(es)
-  - Expectations (what do they want to do/talk about/see happening). We defined expectations as things need to be done/happen or else you wouldn't want to come any more.
-  - Everyone tells their wishes. These are things you would like to see done/like to do, but it's not so bad if these don't happen.
+    - Expectations (what do they want to do/talk about/see happening). We defined expectations as things need to be done/happen or else you wouldn't want to come any more.
+    - Everyone tells their wishes. These are things you would like to see done/like to do, but it's not so bad if these don't happen.
 
 After this, subgroups are formed (3/5 people) based on wishes (what people want to do/talk about).
 
@@ -37,14 +37,14 @@ Evaluation: this should be done every time someone intends to leave. This consis
 
 ### Closing plenary
 
-    Each subgroup reports orally his conclusion/decisions to the whole group
-        Everyone needs to make sure they understand the conclusions, but there is no further discussion here.
-        When everyone is sure they understand, everyone can say if they agree/disagree. If everyone agrees, this is a decision. If this is not the case, this can be discussed further in a next meeting. There is no discussion here.
-        If there is no unanimity: decide for a next submeeting involving people disagreeing.
-    Evaluation (30 minutes before the end time), popcorn roundtable where:
-        Everyone says how they feel (1-2 words)
-        Pro's and contra's of the plenaries (intro and closing) and discussion about how to do next time
-    What do we decide for next time: venue, date, hour, general goal, proposition of subgroups.
+1. Each subgroup reports orally his conclusion/decisions to the whole group
+    1. Everyone needs to make sure they understand the conclusions, but there is no further discussion here.
+    2. When everyone is sure they understand, everyone can say if they agree/disagree. If everyone agrees, this is a decision. If this is not the case, this can be discussed further in a next meeting. There is no discussion here.
+    3. If there is no unanimity: decide for a next submeeting involving people disagreeing.
+2. Evaluation (30 minutes before the end time), popcorn roundtable where:
+    1. Everyone says how they feel (1-2 words)
+    2. Pro's and contra's of the plenaries (intro and closing) and discussion about how to do next time
+3. What do we decide for next time: venue, date, hour, general goal, proposition of subgroups.
 
 ## Moderation (experimental)
 
