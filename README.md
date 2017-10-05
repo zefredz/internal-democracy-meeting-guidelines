@@ -1,6 +1,8 @@
 # Internal Democracy/Guidelines
 
-From Pirate Party Belgium
+From Pirate Party Belgium - [source page on the Wiki](https://wiki.pirateparty.be/Internal_Democracy/Guidelines).
+
+Text by the Internal Democracy group, svg files by tierce
 
 ## Introduction
 
