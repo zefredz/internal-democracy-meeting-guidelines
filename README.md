@@ -1,4 +1,4 @@
-# Internal Democracy/Guidelines
+# Internal Democracy - Meeting Guidelines
 
 From Pirate Party Belgium - [source page on the Wiki](https://wiki.pirateparty.be/Internal_Democracy/Guidelines).
 
